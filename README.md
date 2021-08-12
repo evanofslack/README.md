@@ -1,4 +1,4 @@
-### Hello
+### Hello!
 
 #### I'm a mechanical engineer who dabbles in full-stack development
 
