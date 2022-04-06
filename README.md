@@ -8,4 +8,4 @@
 - Reach out: [evan.slack@outlook.com](evan.slack@outlook.com)
 
 
-[![GitHub Trends](https://api.githubtrends.io/user/svg/evanofslack/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)
+[![GitHub Trends](https://api.githubtrends.io/user/svg/evanofslack/langs?time_range=one_year&include_private=True&theme=dark)](https://githubtrends.io)
