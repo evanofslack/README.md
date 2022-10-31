@@ -1,11 +1,9 @@
-### Hello!
+### hello !
 
-#### I'm a mechanical engineer and occasional coder
+#### i'm a software engineer from boston
 
-- I graduated from Tufts in 2021 with a B.S. in Mechanical Engineering
-- Currently building IoT devices at **Sensata Technologies** 
-- In my free time I'm learning and building with python, go, and typescript
-- Reach out: [evan.slack@outlook.com](evan.slack@outlook.com)
+- currently working on cloud storage at wasabi technologies
+- graduated from tufts with a degree in mechanical engineering
+- learning and building with go, rust, python, and typescript
+- reach out: [evan.slack@outlook.com](evan.slack@outlook.com)
 
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/evanofslack/langs?time_range=one_year&use_percent=True&compact=True&theme=dark)](https://githubtrends.io)
